@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457987550866",
+    "project_id": "fir-quizapp-383c9",
+    "storage_bucket": "fir-quizapp-383c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457987550866:android:319c9c3efd803b9f3d404b",
+        "android_client_info": {
+          "package_name": "com.yashendra.firebasequizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457987550866-vgqij9r3vtl9u40liaktvbibsm32s7np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTXRBk6lNn929XW126uRQAQLd2gOeOBpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457987550866-vgqij9r3vtl9u40liaktvbibsm32s7np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
